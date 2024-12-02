@@ -1,6 +1,6 @@
 module github.com/menshenin/go-opencorpora-tools
 
-go 1.22.8
+go 1.18
 
 require (
 	github.com/pahanini/mafsa v0.0.0-20161024183425-a6cb65366397
